@@ -1,0 +1,12 @@
+{
+  "name": "Taipei MRT Map",
+  "description": "An offline map for Taipei MRT",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon128x128.png"
+  },
+	"developer": {
+		"name": "Shing Lyu",
+		"url": "http://shinglyu.github.io"
+}
+}
